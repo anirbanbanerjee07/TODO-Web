@@ -15,9 +15,9 @@ A **simple yet powerful** task manager built with **HTML, CSS, and JavaScript** 
 - ⚡ **JavaScript** → Interactivity  
 
 ## 📸 ScreenShot
-All Todo List![todo1](https://github.com/user-attachments/assets/be5a3dc7-f228-44e5-ab28-731a4b3ef0d6)  
-![Active Todo List](![todo2](https://github.com/user-attachments/assets/6c1c1da7-a855-4bdf-abdc-0b5d775481df)
-![Completed Todo List](![todo3](https://github.com/user-attachments/assets/ce0d7b9a-4040-4620-854f-8d161d5b494b)
+**All Todo List**![todo1](https://github.com/user-attachments/assets/be5a3dc7-f228-44e5-ab28-731a4b3ef0d6)  
+**Active Todo List**![todo2](https://github.com/user-attachments/assets/6c1c1da7-a855-4bdf-abdc-0b5d775481df)
+**Completed Todo List**![todo3](https://github.com/user-attachments/assets/ce0d7b9a-4040-4620-854f-8d161d5b494b)
 
 ## 🚀 Getting Started  
 1. Clone this repo  
