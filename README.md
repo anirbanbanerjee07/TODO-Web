@@ -1,2 +1,27 @@
-# TODO-Web
-✨ A **TODO Web App** is a simple project built using 🌐 **HTML, CSS, and JavaScript**. 📌 **HTML** structures the tasks, 🎨 **CSS** styles the interface, and ⚡ **JavaScript** adds interactivity like adding ✅, editing ✏️, and deleting ❌ tasks. It’s a beginner-friendly project 🚀 to practice web development skills!
+# 📝 TODO Web App  
+
+A **simple yet powerful** task manager built with **HTML, CSS, and JavaScript** 🚀  
+
+## ✨ Features  
+- ➕ Add tasks in a click  
+- ✅ Mark tasks as complete  
+- 📝 Edit tasks easily  
+- ❌ Delete tasks you don’t need  
+- 🎨 Clean and responsive UI  
+
+## 🛠️ Tech Stack  
+- 🌐 **HTML** → Structure  
+- 🎨 **CSS** → Styling & Layout  
+- ⚡ **JavaScript** → Interactivity  
+
+## 📸 ScreenShot
+![App Screenshot](![todo1](https://github.com/user-attachments/assets/be5a3dc7-f228-44e5-ab28-731a4b3ef0d6)  
+![App Screenshot](![todo2](https://github.com/user-attachments/assets/6c1c1da7-a855-4bdf-abdc-0b5d775481df)
+![App Screenshot](![todo3](https://github.com/user-attachments/assets/ce0d7b9a-4040-4620-854f-8d161d5b494b)
+
+## 🚀 Getting Started  
+1. Clone this repo  
+   ```bash
+   git clone https://github.com/anirbanbanerjee07/TODO-Web.git 
+  
+
