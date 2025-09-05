@@ -22,6 +22,26 @@ A **simple yet powerful** task manager built with **HTML, CSS, and JavaScript** 
 ## 🚀 Getting Started  
 1. Clone this repo  
    ```bash
-   git clone https://github.com/anirbanbanerjee07/TODO-Web.git 
-  
+   git clone https://github.com/anirbanbanerjee07/TODO-Web.git
+   ```
+
+## 📂 Project Structure
+ ┣ 📜 index.html
+ ┣ 🎨 style.css
+ ┣ ⚡ script.js
+ ┗ 📸 screenshot.png
+
+ ## 💡 Future Improvements  
+- 🗂️ Categories & filters
+- 💾 LocalStorage persistence
+- 🌙 Dark mode
+
+## 🙌 Contributing
+Pull requests are welcome 💌
+
+## Made with ❤️ using HTML, CSS & JavaScript
+👉 Do you want me to make this **README colorful with GitHub badges** (like HTML/CSS/JS logos, stars, forks, license), so it looks more professional?
+
+
+**🧩 Happy Hacking**
 
