@@ -1,4 +1,4 @@
-# 📝 TODO Web App  
+# 📝 Action Board Web App  
 
 A **simple yet powerful** task manager built with **HTML, CSS, and JavaScript** 🚀  
 
